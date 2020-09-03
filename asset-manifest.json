@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/martinnobis/react-test/static/css/main.97162626.chunk.css",
+    "main.js": "/martinnobis/react-test/static/js/main.f2443754.chunk.js",
+    "main.js.map": "/martinnobis/react-test/static/js/main.f2443754.chunk.js.map",
+    "runtime-main.js": "/martinnobis/react-test/static/js/runtime-main.68f2cd81.js",
+    "runtime-main.js.map": "/martinnobis/react-test/static/js/runtime-main.68f2cd81.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/martinnobis/react-test/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.d45e2711.chunk.js": "/martinnobis/react-test/static/js/2.d45e2711.chunk.js",
+    "static/js/2.d45e2711.chunk.js.map": "/martinnobis/react-test/static/js/2.d45e2711.chunk.js.map",
+    "index.html": "/martinnobis/react-test/index.html",
+    "precache-manifest.b5fbaa1defe264c34a6860f2037694ca.js": "/martinnobis/react-test/precache-manifest.b5fbaa1defe264c34a6860f2037694ca.js",
+    "service-worker.js": "/martinnobis/react-test/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/martinnobis/react-test/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.97162626.chunk.css.map": "/martinnobis/react-test/static/css/main.97162626.chunk.css.map",
+    "static/js/2.d45e2711.chunk.js.LICENSE.txt": "/martinnobis/react-test/static/js/2.d45e2711.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68f2cd81.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.d45e2711.chunk.js",
+    "static/css/main.97162626.chunk.css",
+    "static/js/main.f2443754.chunk.js"
+  ]
+}
